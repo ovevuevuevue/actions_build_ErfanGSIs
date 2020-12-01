@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V8.2.1.0.KHJCNDL/miui_HM2XTD_V8.2.1.0.KHJCNDL_0dec601777_4.4.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.4.0.QGGCNXM/miui_BEGONIA_V12.0.4.0.QGGCNXM_c250ebe0cb_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
